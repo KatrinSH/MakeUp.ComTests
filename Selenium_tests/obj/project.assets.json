@@ -5753,7 +5753,7 @@
       "outputPath": "/Users/ekaterinasugaj/MakeUp.ComTests/Selenium_tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/ekaterinasugaj/.config/NuGet/NuGet.Config"
+        "/Users/ekaterinasugaj/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

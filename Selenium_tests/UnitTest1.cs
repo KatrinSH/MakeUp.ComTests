@@ -17,6 +17,7 @@ namespace Selenium_tests
         [Fact]
         public void testSerchBox()
         {
+            // Add Comment/
             chrome = StartDriverWithUrl("https://makeup.com.ua/");
             IWebElement element = chrome.FindElement(By.Id("search-input"));
             element.SendKeys("Eveline");
